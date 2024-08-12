@@ -10,4 +10,3 @@ CHIP Xor{
         Or(a=notanda, b=notandb, out=out);
 
 }
-
